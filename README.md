@@ -1,4 +1,7 @@
-### Hi there 👋
+## Olá! Eu sou o Cauã Rodrigues. Seja Bem-vindo Ao Meu Perfil!
+
+- 🧑‍💻 Atualmente Cursando Téc. Análise e Desenvolvimento de Sistemas.
+- 🧠	TypeScript, HTML, CSS & JavaScript 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
