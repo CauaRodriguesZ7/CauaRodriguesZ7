@@ -1,4 +1,4 @@
-## Olá! Eu sou o Cauã Rodrigues. Seja Bem-vindo Ao Meu Perfil!
+## Olá! Eu sou o Cauã Rodrigues. Seja Bem-vindo Ao Meu Perfil.
 
 - 🧑‍💻 Atualmente Cursando Téc. Análise e Desenvolvimento de Sistemas.
 - 🧠	TypeScript, HTML, CSS & JavaScript 
