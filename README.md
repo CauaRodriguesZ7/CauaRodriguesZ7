@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cauã Rodrigues. Seja Bem-vindo Ao Meu Perfil.
 
-- 🧑‍💻 Atualmente Cursando Téc. Análise e Desenvolvimento de Sistemas.
+- 🧑‍💻 Atualmente Cursando Téc. Desenvolvimento de Sistemas.
 - 🧠 JavaScript, TypeScript, HTML & CSS.
 
 <div style="display: inline_block"><br>
